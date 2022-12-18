@@ -6,11 +6,13 @@ Raptoreum can be bought, sold or traded on a variety of platforms.
 
 ### RTM/USDT
 
-CoinEx RTM/USDT: <https://www.coinex.com/exchange/RTM-USDT>   
+CoinEx RTM/USDT: <https://www.coinex.com/exchange/RTM-USDT>
+P2B RTM/USDT: <https://https://p2pb2b.com/trade/RTM_USDT/>
 Koinbazar RTM/USDT: <https://www.koinbazar.com/trade/RTM-USDT>   
 Polarity Exchange RTM/USDT: <https://bit.ly/RTMUSDTPolarity>   
 Dex-Trade RTM/USDT: <https://dex-trade.com/spot/trading/RTMUSDT>   
-Graviex RTM/USDT: <https://graviex.net/markets/rtmusdt>   
+Graviex RTM/USDT: <https://graviex.net/markets/rtmusdt>
+TradeOgre RTM/USDT: <https://tradeogre.com/exchange/USDT-RTM>
 
 ### RTM/BTC
 
